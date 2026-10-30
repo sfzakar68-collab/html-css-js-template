@@ -10,7 +10,6 @@ This is a simple, beginner-friendly template to help you get started with web de
 starter-template/
 ├── index.html    # The main HTML file
 ├── style.css     # Styling for the web page
-└── script.js     # JavaScript to add interactivity
 ```
 
 ---
